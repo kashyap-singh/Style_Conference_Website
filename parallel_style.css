@@ -1,0 +1,113 @@
+header,footer
+{
+    background-image: linear-gradient(indigo,gray);
+}
+
+.app
+{
+    float: left;
+    color: aliceblue;
+    font-size: 50px;
+    margin-left: 250px;
+}
+header nav 
+{
+    padding-top:5px;
+    padding-left: 50px;
+    text-align: right;
+    margin-right: 200px;
+}
+header nav p
+{
+    padding-top: 30px;
+    color: gray;
+    font-size: 30px;
+}
+header li
+{
+    display: inline;
+    padding-left: 30px;
+}
+header nav li a
+{
+    text-decoration: none;
+    color: black;
+}
+header nav li a:hover
+{
+    text-decoration: none;
+    color: green;
+}
+.x a{
+    border: 1px solid black;
+    margin-left: 550px;
+    color: black; 
+    text-decoration: none;
+    font-size: 30px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.x a:hover
+{
+    background-color: white;
+    box-shadow: inset 5px 5px 5px silver;
+}
+.p img
+{
+    
+    width: 200px;
+    height: 200px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+.o img
+{
+    
+    width: 200px;
+    height: 200px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+.i img
+{
+    
+    width: 200px;
+    height: 200px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+footer
+{
+    
+}
+footer nav
+{
+    margin-left: 650px;
+}
+footer li
+{
+    
+    padding: 30px;
+    float: left;
+    display: inline;
+    padding-left: 30px;
+    
+}
+footer nav li a
+{
+    text-decoration: none;
+    color: black;
+}
+footer nav li a:hover
+{
+    text-decoration: none;
+    color: coral;
+}
+.ap
+{
+    margin-top: 50px;
+    color: black;
+    font-size: 20px;
+    margin-left: 150px;
+    padding-right: 100px;
+}
